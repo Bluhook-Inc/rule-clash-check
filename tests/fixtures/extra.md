@@ -1,0 +1,1 @@
+- Pack fragile ceramics with padding.
